@@ -1,2 +1,3 @@
 # hello-world
-Test repository to learn GitHub
+
+Information Technology major at University of Central Florida with a minor in Secure Computing and Networking. Loves programming, D&D, and other nerdly things.
